@@ -15,6 +15,10 @@
     "MCPRepository",
     "mcp cli"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcprepository/mcp-find"
+  },
   "author": "MCPRepository.com",
   "license": "MIT",
   "description": "Search for MCP Servers from the command line",
