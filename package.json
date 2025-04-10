@@ -1,0 +1,26 @@
+{
+  "name": "mcp-find",
+  "version": "0.0.2",
+  "main": "index.js",
+  "bin": {
+    "mcp-find": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mcp-find",
+    "MCP Server",
+    "Model Context Protocol",
+    "MCPRepository",
+    "mcp cli"
+  ],
+  "author": "MCPRepository.com",
+  "license": "MIT",
+  "description": "Search for MCP Servers from the command line",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "node-fetch": "^3.3.2"
+  }
+}
