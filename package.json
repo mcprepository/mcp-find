@@ -1,6 +1,6 @@
 {
   "name": "mcp-find",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "bin": {
     "mcp-find": "./index.js"
